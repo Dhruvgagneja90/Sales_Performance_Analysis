@@ -8,3 +8,4 @@ Mike Goodman, the head of Product Management of a retail products company, is re
 
 To build a dashboard that will present monthly sales performance by product segment and product category to help client identifying the segments and categories that have met or exceeded their sales targets, as well as those that have not met their sales targets. 
 
+[You can also see the dashboard on Tableau Public Server. ](https://public.tableau.com/views/SalesPerformanceAnalysis_16309806985000/Project?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_linkm)
